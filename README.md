@@ -5,9 +5,7 @@
 
 ## 📓 Notebook
 - You may review the current Jupyter notebook for the full baseline analysis:
-➡ **Notebook Link:** 
-<a href="[https://example.com](https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb)" target="_blank">["https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb"](https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb)</a>
-
+- <a href="[https://example.com](https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb)" target="_blank">[https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb](https://github.com/joshdailey99/module20/blob/main/Module_20.ipynb)</a>
 
 ## ✅ Cohort & Data Scope
 - Dataset has been filtered to represent:
@@ -49,8 +47,6 @@ Key insights revealed by submission-time variables:
 - **ROC AUC** → measures predictor separability at submission time
 - **Confusion matrix included for interpretability**
 
----
-
 ## 🚀 Next Steps (Planned Modeling, Comparison & Tuning)
 
 - **Fit baseline classifiers**
@@ -81,9 +77,6 @@ Key insights revealed by submission-time variables:
   - Summarize performance gains from tuning
   - Validate if approval can be predicted within acceptable error bounds
   - Produce model ranking, tuning logs, final justification, and recommendations
-
-
----
 
 ## ⭐ Why This Matters
 - Loan approval is a **first-order underwriting decision**
